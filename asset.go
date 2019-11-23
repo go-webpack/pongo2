@@ -1,4 +1,4 @@
-package asset
+package pongo2
 
 import (
 	"github.com/flosch/pongo2"
