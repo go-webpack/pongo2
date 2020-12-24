@@ -1,4 +1,4 @@
-module github.com/go-webpack/pongo2
+module github.com/go-webpack/pongo2/v4
 
 go 1.13
 
